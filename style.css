@@ -1,0 +1,117 @@
+
+p{
+font-family: 'Roboto', sans-serif;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Titillium Web', sans-serif;
+font-size: 20px;
+}
+
+
+
+#entete{
+  
+    font-size: 100%;
+    border: 2px solid black;
+    background-color:azure;
+    margin-bottom: 0px;
+    }
+
+#picture{
+    width: 100px;
+    height: 128px;
+    float: left;
+    }
+
+
+h1,h2{
+    color: red;
+font-family: 'Roboto', sans-serif;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Indie Flower', cursive;
+    }
+h3{
+    background-color:lightgreen; 
+    }
+
+h4{
+
+       font-weight: bold;
+   } 
+
+li{
+    list-style: none;
+    }
+
+
+#emailolygood{
+    display:block;
+    }
+
+
+#asideleft{
+    width: 200px;
+    height: auto; 
+    float: left;
+    margin-right: 30px;
+    text-align: center;
+   
+    }
+
+
+#svg1{
+    width: 100px;
+    height: 750px;
+    float: left;
+    padding: 20px;
+    }
+#svg2{
+border: 2px solid red;
+
+    }
+
+article{
+    width: 1000px;
+    height: auto;
+    }
+
+
+#competences{
+background-color: lightgreen;
+}
+
+#competence1{
+float: left;
+width: 100px;
+height: auto;
+
+}
+#competence2{
+float: left;
+width: 100px;
+height: auto;
+
+}
+svg{
+
+    float: left;
+}
+
+#svgarrangement1{
+
+  float: left;
+}
+#svgarraangement2{
+
+
+}
+span {
+
+    font-weight :bold;
+}
+span{
+
+    color: #9aadde;
+    font-size: 1.2em;
+    margin-bottom: 15px;
+}
